@@ -1,0 +1,5 @@
+export const colorPrimary = '#264653'
+export const colorSecondary = '#2a9d8f'
+export const colorTertiary = '#2a9d8f'
+export const colorQuaternary = '#f4a261'
+export const colorSenary = '#e76f51'
