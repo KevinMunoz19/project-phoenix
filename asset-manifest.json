@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-phoenix/static/css/main.073c9b0a.css",
+    "main.js": "/project-phoenix/static/js/main.dd2828d3.js",
+    "static/js/787.2facd97c.chunk.js": "/project-phoenix/static/js/787.2facd97c.chunk.js",
+    "static/media/logo.svg": "/project-phoenix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project-phoenix/index.html",
+    "main.073c9b0a.css.map": "/project-phoenix/static/css/main.073c9b0a.css.map",
+    "main.dd2828d3.js.map": "/project-phoenix/static/js/main.dd2828d3.js.map",
+    "787.2facd97c.chunk.js.map": "/project-phoenix/static/js/787.2facd97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd2828d3.js"
+  ]
+}
